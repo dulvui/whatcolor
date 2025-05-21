@@ -1,11 +1,12 @@
+# MOVED TO CODEBERG
+The main repository is on now [Codeberg](https://codeberg.org/dulvui/whatcolor).  
+FOSS should be hosted by FOSS.
+
+----
 # WhatColor
 Source code for the Android and iOS game WhatColor. Created with libGDX.
 
-[![Android upload](https://github.com/dulvui/whatcolor/actions/workflows/upload-android.yml/badge.svg)](https://github.com/dulvui/whatcolor/actions/workflows/upload-android.yml)
-[![iOS upload](https://github.com/dulvui/whatcolor/actions/workflows/upload-ios.yml/badge.svg)](https://github.com/dulvui/whatcolor/actions/workflows/upload-ios.yml)
-
 <a href="https://play.google.com/store/apps/details?id=com.salvai.whatcolor" target="_blank"><img src="store-images/PlayStore.svg" alt="Get it on Google Play" height="49"></a>
-<!-- <a href="https://apps.apple.com/app/whatcolor/id1626543157" target="_blank"><img src="store-images/AppStore.svg" alt="Download on the App Store" height="50" ></a> -->
 
 <div>
   <img src="screenshots/screenshot-1.png" alt="Level 1" width="200"/>
